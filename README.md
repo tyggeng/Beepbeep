@@ -1,2 +1,2 @@
 # Beepbeep
-OpenCV screen watcher for games
+OpenCV screen watcher written for games (though you can also use it to watch for other on-screen events)
