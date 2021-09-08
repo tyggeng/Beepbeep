@@ -1,7 +1,7 @@
 import win32gui, win32ui, win32con
 import numpy as np
 
-WINDOW_NAME = 'Ristonia - A Better Mushroom Game'
+WINDOW_NAME = 'XXX'
 
 
 class WindowCapture:
