@@ -6,7 +6,7 @@ import locker
 
 
 LABEL = "Beep Beep Bot, press run to begin..."  # Set Welcome Message
-LABELF = "This is not the original copy, please find @ristoniamage to get your hands on the bot today"
+LABELF = "Error - Not the original copy"
 BACKGROUND_URL = 'logo.png' # Ensure that its the same folder // provide full path
 ERROR_MSG = "Click Exit to restart BEEP BEEP BOT / start Ristonia if its not yet running"
 WINDOW_SIZE = '420x200'
